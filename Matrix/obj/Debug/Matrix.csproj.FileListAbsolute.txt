@@ -1,0 +1,5 @@
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\Matrix\bin\Debug\Matrix.exe
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\Matrix\obj\Debug\Matrix.exe
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\Matrix\obj\Debug\Matrix.pdb

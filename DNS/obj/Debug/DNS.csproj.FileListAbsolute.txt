@@ -1,0 +1,6 @@
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\bin\Debug\DNS.exe.config
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\bin\Debug\DNS.exe
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\bin\Debug\DNS.pdb
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\obj\Debug\DNS.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\obj\Debug\DNS.exe
+C:\Users\Nguyen Le\Desktop\New folder\LapTrinhMang-LeTrieuThanhNguyen_Buoi7\DNS\obj\Debug\DNS.pdb
